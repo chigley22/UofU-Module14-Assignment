@@ -1,9 +1,9 @@
 # UofU-Module14-Assignment
 
 <h1 align="center">MVC Tech Blog</h1>
-https://dashboard.heroku.com/apps/uofu-tech-blog-mvc/deploy/github <br />  
+ 
 ## Description
-
+https://dashboard.heroku.com/apps/uofu-tech-blog-mvc/deploy/github <br /> 
 AS A developer who writes about tech<br />
 I WANT a CMS-style blog site<br />
 SO THAT I can publish articles, blog posts, and my thoughts and opinions<br />
