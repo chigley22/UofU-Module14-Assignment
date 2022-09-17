@@ -2,7 +2,7 @@
   "name": "mvc-tech-blog",
   "version": "1.0.0",
   "description": "Model-View-Controller (MVC) Tech Blog",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node server.js",
     "watch": "nodemon server.js",
