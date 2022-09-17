@@ -4,7 +4,7 @@
   "description": "Model-View-Controller (MVC) Tech Blog",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node index.js",
     "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
   },
